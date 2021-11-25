@@ -1,0 +1,30 @@
+@import "~bootstrap/dist/css/bootstrap";
+// General theme contents
+@import "src/assets/scss/partials/variables";
+@import "src/assets/scss/partials/general";
+@import "src/assets/scss/partials/generic";
+@import "src/assets/scss/partials/mixins/function";
+// important Element
+@import "src/assets/scss/partials/menu/menu-lite";
+@import "src/assets/scss/partials/widget/widget";
+// Theme Element
+@import "src/assets/scss/partials/theme-elements/form";
+@import "src/assets/scss/partials/theme-elements/radiobox-checkbox";
+@import "src/assets/scss/partials/theme-elements/labels-badges";
+@import "src/assets/scss/partials/theme-elements/data-tables";
+@import "src/assets/scss/partials/theme-elements/authentication";
+@import "src/assets/scss/partials/theme-elements/button";
+@import "src/assets/scss/partials/theme-elements/alert";
+@import "src/assets/scss/partials/theme-elements/breadcrumb-pagination";
+@import "src/assets/scss/partials/theme-elements/progress";
+@import "src/assets/scss/partials/theme-elements/tooltip";
+@import "src/assets/scss/partials/theme-elements/popover";
+@import "src/assets/scss/partials/theme-elements/nav";
+@import "src/assets/scss/partials/theme-elements/modal";
+// Other
+@import "src/assets/scss/partials/other/chat";
+@import "src/assets/scss/partials/other/prism";
+@import "src/assets/scss/partials/other/switches";
+@import "src/assets/scss/partials/other/chart";
+@import "src/assets/scss/partials/other/icon-lauouts";
+@import "src/assets/scss/partials/third-party/third-party";

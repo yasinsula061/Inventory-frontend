@@ -1,0 +1,8 @@
+{
+    "cSpell.words": [
+        "Sula",
+        "toastify"
+    ],
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "javascript.preferences.importModuleSpecifier": "non-relative"
+}
